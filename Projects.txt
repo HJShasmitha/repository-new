@@ -1,0 +1,51 @@
+JAVA
+
+-> For loops
+* Even, odd numbers
+* Reversable of nums
+* If else condition (Largest Numbers),----User Input
+*18 vote eligiable in if else condition,----User Input
+*Multiplication of Nums usinf for loops
+* Hello World -- Same printing statement-- Next next line It was to print
+* 2+2 and printing that Hello World in the single printing Statement , have to nextnext lines.
+* Hello World and printing that 2+2 in the  single printing Statement, have to next next lines.
+* for loops---Odd numbers -- 1) 1 2)3 3)5
+* 1+2,1+3 to 100 for loops --- any loops
+* Square root
+* Terinary Operators
+*Square roots
+
+-> Patterns 
+* Some patterns in Numbers and Some patterns with Symbols, Mixture of nums and Symbols, or Mixture of alphabets and Symbols
+* Star Patterns 1,2,3,4,5 and reversable of this Orders
+
+->Arrays
+* Ascending Orders and Descending Orders
+* Leap year
+*Factorial
+*Modulo and Division
+*Prime numbers
+*Swaping of nums without Third variable 
+* Armstrong Numbers
+*Cubes of any Numbers
+   
+HTML(Hyperetext Markup Language)
+
+*Indroduction 
+*Creating a Web page, Lists, Links, Images, Tables, Forms
+
+CSS (Casacading Style Sheets)
+*Introduction of CSS
+*Colors
+
+
+SQL(Structure Query Language)
+
+
+
+
+
+
+
+
+
